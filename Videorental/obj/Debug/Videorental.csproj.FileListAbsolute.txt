@@ -1,0 +1,16 @@
+C:\Users\singh\source\repos\Videorental\Videorental\obj\Debug\Videorental.csprojAssemblyReference.cache
+C:\Users\singh\source\repos\Videorental\Videorental\obj\Debug\Videorental.Properties.Resources.resources
+C:\Users\singh\source\repos\Videorental\Videorental\obj\Debug\Videorental.csproj.GenerateResource.cache
+C:\Users\singh\source\repos\Videorental\Videorental\obj\Debug\Videorental.csproj.CoreCompileInputs.cache
+C:\Users\singh\source\repos\Videorental\Videorental\bin\Debug\Videorental.exe.config
+C:\Users\singh\source\repos\Videorental\Videorental\bin\Debug\Videorental.exe
+C:\Users\singh\source\repos\Videorental\Videorental\bin\Debug\Videorental.pdb
+C:\Users\singh\source\repos\Videorental\Videorental\obj\Debug\Videorental.exe
+C:\Users\singh\source\repos\Videorental\Videorental\obj\Debug\Videorental.pdb
+C:\Users\singh\source\repos\Videorental\Videorental\obj\Debug\Videorental.movies1.resources
+C:\Users\singh\source\repos\Videorental\Videorental\obj\Debug\Videorental.Rented1.resources
+C:\Users\singh\source\repos\Videorental\Videorental\obj\Debug\Videorental.AddMovie.resources
+C:\Users\singh\source\repos\Videorental\Videorental\obj\Debug\Videorental.UpdateMovies.resources
+C:\Users\singh\source\repos\Videorental\Videorental\obj\Debug\Videorental.UpdateCustomer.resources
+C:\Users\singh\source\repos\Videorental\Videorental\obj\Debug\Videorental.customers2.resources
+C:\Users\singh\source\repos\Videorental\Videorental\obj\Debug\Videorental.Video.resources
